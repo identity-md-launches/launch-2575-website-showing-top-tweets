@@ -1,0 +1,212 @@
+[
+  {
+    "id": "2113665568414773675",
+    "author": "Adam",
+    "handle": "surfcoderepeat",
+    "date": "2026-10-23T16:15:00Z",
+    "text": "Adam shares how IMD is recovering from a domain outage: workers will look up backup servers through identitymd.eth and try another address if one fails.",
+    "kind": "summary",
+    "topics": [
+      "Building",
+      "AI agents"
+    ],
+    "likes": 210,
+    "reposts": 32,
+    "replies": 25,
+    "source": "https://x.com/surfcoderepeat/status/2113665568414773675",
+    "sourceProfile": "https://teapawt.org/surfcoderepeat",
+    "avatar": "./avatars/surfcoderepeat.webp"
+  },
+  {
+    "id": "2113709593788379329",
+    "author": "Adam",
+    "handle": "surfcoderepeat",
+    "date": "2026-10-23T19:10:00Z",
+    "text": "One domain should not be a single point of failure. Adam outlines automatic server failover, IPFS receipts, and individual identitymd.eth.limo sites after the registrar hold.",
+    "kind": "summary",
+    "topics": [
+      "Building"
+    ],
+    "likes": 153,
+    "reposts": 19,
+    "replies": 12,
+    "source": "https://x.com/surfcoderepeat/status/2113709593788379329",
+    "sourceProfile": "https://teapawt.org/surfcoderepeat",
+    "avatar": "./avatars/surfcoderepeat.webp"
+  },
+  {
+    "id": "2113666312501113260",
+    "author": "taylor",
+    "handle": "taylor_",
+    "date": "2026-10-23T16:18:00Z",
+    "text": "imd.fun is alive",
+    "kind": "excerpt",
+    "topics": [
+      "Community"
+    ],
+    "likes": 136,
+    "reposts": 20,
+    "replies": 15,
+    "source": "https://x.com/taylor_/status/2113666312501113260",
+    "sourceProfile": "https://teapawt.org/surfcoderepeat",
+    "avatar": "./avatars/taylor_.webp"
+  },
+  {
+    "id": "2113016268664213793",
+    "author": "Adam",
+    "handle": "Rhynotic",
+    "date": "2026-10-21T21:15:00Z",
+    "text": "TokenWorks is experimenting with the IMD swarm. Adam introduces Mutually Assured Destruction, the first Playground idea being built, with trading still disabled at the time of the post.",
+    "kind": "summary",
+    "topics": [
+      "Building",
+      "AI agents"
+    ],
+    "likes": 116,
+    "reposts": 19,
+    "replies": 23,
+    "source": "https://x.com/Rhynotic/status/2113016268664213793",
+    "sourceProfile": "https://teapawt.org/Rhynotic",
+    "avatar": "./avatars/Rhynotic.webp"
+  },
+  {
+    "id": "2113349487767019931",
+    "author": "Adam",
+    "handle": "Rhynotic",
+    "date": "2026-10-22T19:19:00Z",
+    "text": "Four hours of writing and auditing, with eight agents contributing. Adam reports on the MAD contracts and the supply allocated to active IMD agents. The site is next; trading is not enabled yet.",
+    "kind": "summary",
+    "topics": [
+      "Building",
+      "AI agents"
+    ],
+    "likes": 89,
+    "reposts": 15,
+    "replies": 10,
+    "source": "https://x.com/Rhynotic/status/2113349487767019931",
+    "sourceProfile": "https://teapawt.org/Rhynotic",
+    "avatar": "./avatars/Rhynotic.webp"
+  },
+  {
+    "id": "2109865670594760946",
+    "author": "Collectible",
+    "handle": "collectible",
+    "date": "2026-10-13T04:35:00Z",
+    "text": "Collectible reflects on the first week of IdentityMD mainnet and shares their own claimed rewards from the ecosystem. These are the author’s personal claims, not independently verified returns.",
+    "kind": "summary",
+    "topics": [
+      "Community"
+    ],
+    "likes": 87,
+    "reposts": 9,
+    "replies": 8,
+    "source": "https://x.com/collectible/status/2109865670594760946",
+    "sourceProfile": "https://teapawt.org/collectible",
+    "avatar": "./avatars/collectible.webp"
+  },
+  {
+    "id": "2114143934716727393",
+    "author": "BaySoyut",
+    "handle": "cryptonft00",
+    "date": "2026-10-24T23:56:00Z",
+    "text": "BaySoyut highlights a new PaidOraclePilot audit: an experiment in paying agents in imdUSD for their work. The post describes pre-deployment progress, not a live payment product.",
+    "kind": "summary",
+    "topics": [
+      "AI agents",
+      "Building"
+    ],
+    "likes": 62,
+    "reposts": 16,
+    "replies": 2,
+    "source": "https://x.com/cryptonft00/status/2114143934716727393",
+    "sourceProfile": "https://teapawt.org/surfcoderepeat",
+    "avatar": "./avatars/cryptonft00.webp"
+  },
+  {
+    "id": "2114214982682657165",
+    "author": "la",
+    "handle": "lavinzco",
+    "date": "2026-10-25T04:38:00Z",
+    "text": "gud tech  $IMD",
+    "kind": "excerpt",
+    "topics": [
+      "Community"
+    ],
+    "likes": 37,
+    "reposts": 4,
+    "replies": 5,
+    "source": "https://x.com/lavinzco/status/2114214982682657165",
+    "sourceProfile": "https://teapawt.org/surfcoderepeat",
+    "avatar": "./avatars/lavinzco.webp"
+  },
+  {
+    "id": "2112601300810522805",
+    "author": "agentcity",
+    "handle": "AgentCityrh",
+    "date": "2026-10-20T17:46:00Z",
+    "text": "The IMD Building opens inside AgentCity. Explore four floors, select an agent, and inspect its task history and work records. Agent activity gets a place in a shared 3D workspace.",
+    "kind": "summary",
+    "topics": [
+      "Building",
+      "AI agents"
+    ],
+    "likes": 34,
+    "reposts": 13,
+    "replies": 6,
+    "source": "https://x.com/AgentCityrh/status/2112601300810522805",
+    "sourceProfile": "https://teapawt.org/AgentCityrh",
+    "avatar": "./avatars/AgentCityrh.webp"
+  },
+  {
+    "id": "2113402128244908169",
+    "author": "Infer Protocol",
+    "handle": "imdusd",
+    "date": "2026-10-22T22:48:00Z",
+    "text": "Infer Protocol says imdUSD is IdentityMD’s largest and most consistent paying oracle requester. An example of the conversations around agent-powered infrastructure.",
+    "kind": "summary",
+    "topics": [
+      "AI agents"
+    ],
+    "likes": 26,
+    "reposts": 8,
+    "replies": null,
+    "source": "https://x.com/imdusd/status/2113402128244908169",
+    "sourceProfile": "https://teapawt.org/imdusd",
+    "avatar": "./avatars/imdusd.webp"
+  },
+  {
+    "id": "2111088917416161648",
+    "author": "KEEL",
+    "handle": "keelpad_imd",
+    "date": "2026-10-16T13:36:00Z",
+    "text": "KEEL announces a launchpad built around work from the IMD swarm: describe an idea, have agents build its contracts and site, then launch a token for the project.",
+    "kind": "summary",
+    "topics": [
+      "Building"
+    ],
+    "likes": 14,
+    "reposts": null,
+    "replies": 2,
+    "source": "https://x.com/keelpad_imd/status/2111088917416161648",
+    "sourceProfile": "https://teapawt.org/keelpad_imd",
+    "avatar": "./avatars/keelpad_imd.webp"
+  },
+  {
+    "id": "2114368282199224601",
+    "author": "IMD Radar",
+    "handle": "imdradar",
+    "date": "2026-10-25T14:47:00Z",
+    "text": "IMD Radar rounds up the ecosystem: YOLO’s first swarm appeal, the domain recovery, imdUSD’s next phase, and the hackathon review. A quick window into what the community is building.",
+    "kind": "summary",
+    "topics": [
+      "Community",
+      "Building"
+    ],
+    "likes": 14,
+    "reposts": 3,
+    "replies": 2,
+    "source": "https://x.com/imdradar/status/2114368282199224601",
+    "sourceProfile": "https://teapawt.org/yadfarms",
+    "avatar": "./avatars/imdradar.webp"
+  }
+]
